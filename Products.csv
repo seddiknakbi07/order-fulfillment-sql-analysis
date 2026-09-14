@@ -1,0 +1,31 @@
+SKU_ID,Product_Name,Category,Unit_Price
+SKU-001,Sparkling Water 12pk,Beverages,19.14
+SKU-002,Orange Juice 1L,Beverages,11.94
+SKU-003,Cola 6pk,Beverages,20.96
+SKU-004,Iced Tea 1L,Beverages,17.49
+SKU-005,Energy Drink 4pk,Beverages,4.52
+SKU-006,Bottled Water 24pk,Beverages,23.48
+SKU-007,Potato Chips 150g,Snacks,18.86
+SKU-008,Granola Bars 6pk,Snacks,19.4
+SKU-009,Pretzels 200g,Snacks,5.25
+SKU-010,Trail Mix 300g,Snacks,12.18
+SKU-011,Popcorn 100g,Snacks,10.47
+SKU-012,Crackers 250g,Snacks,22.43
+SKU-013,Whole Milk 2L,Dairy,16.34
+SKU-014,Greek Yogurt 4pk,Dairy,20.19
+SKU-015,Cheddar Cheese 400g,Dairy,12.03
+SKU-016,Butter 454g,Dairy,7.39
+SKU-017,Cottage Cheese 500g,Dairy,14.42
+SKU-018,Almond Milk 1L,Dairy,3.87
+SKU-019,Dish Soap 750ml,Cleaning Supplies,20.29
+SKU-020,Laundry Detergent 3L,Cleaning Supplies,16.08
+SKU-021,All-Purpose Cleaner 1L,Cleaning Supplies,18.8
+SKU-022,Paper Towels 6pk,Cleaning Supplies,10.12
+SKU-023,Glass Cleaner 500ml,Cleaning Supplies,23.37
+SKU-024,Bleach 1.5L,Cleaning Supplies,21.7
+SKU-025,Shampoo 400ml,Personal Care,19.24
+SKU-026,Toothpaste 100ml,Personal Care,6.68
+SKU-027,Hand Soap 250ml,Personal Care,12.53
+SKU-028,Body Wash 500ml,Personal Care,3.44
+SKU-029,Deodorant 85g,Personal Care,5.82
+SKU-030,Razors 4pk,Personal Care,17.19
